@@ -1,0 +1,6 @@
+File1.txt NORMAL
+File2.txt NORMAL
+INTRO.wav CRITICAL
+File3.txt NORMAL
+File4.txt NORMAL
+100MB.bin HIGH
