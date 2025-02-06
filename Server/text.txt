@@ -1,0 +1,8 @@
+100MB.bin 100.00MB
+file1.txt 0.01MB
+file2.txt 0.04MB
+file3.txt 0.00MB
+file4.txt 0.00MB
+INTRO.wav 2.22MB
+report(1).pdf 100.45MB
+TOEIC.zip 1.92GB
